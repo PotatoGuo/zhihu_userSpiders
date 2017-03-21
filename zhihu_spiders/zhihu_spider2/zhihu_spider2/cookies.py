@@ -6,7 +6,7 @@ import random
 from user_agents import agents
 
 """知乎登录"""
-accounts = [{'email':'yuhun17@sina.com', 'password':'19911117'}
+accounts = [{'email':'****', 'password':'****'}
             ]
 
 def get_cookies():
