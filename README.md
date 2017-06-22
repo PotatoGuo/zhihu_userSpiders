@@ -20,6 +20,3 @@ db：mongodb和redis
 python：2.7.6
 
 bloomfilter源码（BloomFilter.py）是直接来自大神的blog：https://pycntech.github.io/%E5%9F%BA%E4%BA%8ERedis%E7%9A%84Bloomfilter%E5%8E%BB%E9%87%8D%EF%BC%88%E9%99%84Python%E4%BB%A3%E7%A0%81%EF%BC%89-%E4%B9%9D%E8%8C%B6.html
-
-bloomfilter的原理：http://blog.csdn.net/guoziqing506/article/details/52852515
-                  http://blog.csdn.net/hguisu/article/details/7866173
